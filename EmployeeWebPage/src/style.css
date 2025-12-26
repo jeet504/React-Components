@@ -1,0 +1,138 @@
+.top-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end;
+    background-image: linear-gradient(to right, white, #8a2be2);
+    padding: 3px;
+    gap: 15px;
+    margin-top: -20px;
+}
+
+.top-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end;
+    padding: 3px;
+    gap: 15px;
+    margin-top: -20px;
+
+}
+
+.bottom {
+    background-color: #101D6B;
+    padding: 20px;
+}
+
+.name {
+    display: flex;
+    flex-direction: row;
+    margin-right: 930px;
+}
+
+.error {
+    color: red;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input {
+    height: 40px;
+    border-radius: 10px;
+    margin-top: -15px;
+}
+
+.inputEdit {
+    height: 40px;
+    border-radius: 10px;
+    margin-top: -15px;
+    width: 150%;
+}
+
+.loginHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: centre;
+    gap: 70px;
+    margin-top: -25px;
+    margin-left: 110px;
+    margin-bottom: -20px;
+    font-size: 18px;
+    color: #1D2951;
+}
+
+.signupHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: centre;
+    gap: 56px;
+    margin-top: -25px;
+    margin-left: 95px;
+    margin-bottom: -20px;
+    font-size: 18px;
+    color: #1D2951;
+}
+
+.employee {
+    background-color: #9370db;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.position {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.add-modal {
+    display: flex;
+    flex-direction: row;
+    align-items: centre;
+    gap: 100px;
+    margin-top: -25px;
+    margin-left: 120px;
+    margin-bottom: -20px;
+    font-size: 18px;
+    color: #1D2951;
+}
+
+.card {
+    max-width: 1000;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.card-actions {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-left: 600px;
+    position: absolute;
+}
+
+.deleteF-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.delete-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+}
+
+.edit-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+{
+    "type" : "dialogwithtitlefooter",
+    "typeinfo" : {
+        "title" : "Delete Confirmation",
+        "info" : "This is a warning message",
+        "buttons" : {
+            "button1" : "Delete",
+            "button2" : "Cancel"
+        }
+    }
+}

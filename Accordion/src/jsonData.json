@@ -1,0 +1,36 @@
+{
+    "AccordionHeader": [
+        {
+            "header1": "TaskNo",
+            "header2": "Pipiline Name",
+            "header3": "Description",
+            "header4": "Status",
+            "header5": "Result"
+        }
+    ],
+    "AccordionSummary": [
+        {
+            "header1": [
+                "AppStudio creates Reusable components for developer"
+            ],
+            "header2": [
+                "Name A",
+                "Name B",
+                "Name C",
+                "Name D"
+            ],
+            "header3": [
+                "ABCD",
+                "EFGH"
+            ],
+            "header4": [
+                "Pending",
+                "Done"
+            ],
+            "header5": [
+                "Pass",
+                "Fail"
+            ]
+        }
+    ]
+}
